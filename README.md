@@ -2,6 +2,11 @@
 
 A Chatbot made with Watson that suggests a recipe based on the ingredients you have. Itlets you search and create easy recipes using ingredients you already have in your kitchen. 
 
+## Features
+  1. Find Recipes based on the ingredients you have
+  2. Text to Speech Feature to read out the recipe instructions
+    3. Suggests Top Meals that can be made under 15 minutes.
+
 <h2>Running ChefBot</h2>
 
 Clone the repo and import the code in Android Studio,
