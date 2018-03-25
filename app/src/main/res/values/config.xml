@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Watson Conversation Service Credentials --> 
+    <string name="workspace_id">ENTER_YOUR_ID</string> 
+    <string name="conversation_username">ENTER_YOUR_USERNAME</string> 
+    <string name="conversation_password">ENTER_YOUR_PASSWORD</string>  
+
+    <!--Watson Speech-Toce83a53a-2602-40dc-becf-f45f54615b20-Text Service Credentials--> 
+    <string name="STT_username">ENTER_YOUR_USERNAME</string> 
+    <string name="STT_password">ENTER_YOUR_PASSWORD</string>  
+
+    <!--Watson Text-To-Speech Service Credentials--> 
+    <string name="TTS_username">ENTER_YOUR_USERNAME</string>  
+    <string name="TTS_password">ENTER_YOUR_PASSWORD</string>
+
+    <!--Bluemix Mobile Analytics--> 
+    <string name="mobileanalytics_apikey">ENTER_YOUR_KEY</string>
+</resources>
