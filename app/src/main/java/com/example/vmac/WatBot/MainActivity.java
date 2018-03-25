@@ -99,8 +99,8 @@ public class MainActivity extends AppCompatActivity {
     private SpeakerLabelsDiarization.RecoTokens recoTokens;
     private MicrophoneHelper microphoneHelper;
     String query,NEWURL,s;
-    final String API_KEY="89d80110df7b2c6c7bee8ce335ee8837";
-    final String URL="http://food2fork.com/api/search?key=89d80110df7b2c6c7bee8ce335ee8837&q=";
+    final String API_KEY="";
+    final String URL="http://food2fork.com/api/search?key=";
 
 
     @Override
