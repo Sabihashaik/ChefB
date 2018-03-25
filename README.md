@@ -1,18 +1,22 @@
 # ChefBot 
 
-A Chatbot made with Watson that suggests a recipe based on the ingredients you have. Itlets you search and create easy recipes using ingredients you already have in your kitchen. 
+A Chatbot made with Watson that suggests a recipe based on the ingredients you have. It lets you search and create easy recipes using ingredients you already have in your kitchen. 
+
+Built on the IBM Watson Template Watbot.
 
 ## Features
   1. Find Recipes based on the ingredients you have
   2. Text to Speech Feature to read out the recipe instructions
-    3. Suggests Top Meals that can be made under 15 minutes.
+  3. Suggests Top Meals that can be made under 15 minutes.
+  4. Uses [Food2Fork API](http://food2fork.com/about/api) to retrieve results.
+ 
 
 ## Screenshots
 <img src="https://i.imgur.com/GJ4IHry.jpg" width="230" height="400" /> <img src="https://i.imgur.com/LPFEZdq.jpg" width="230" height="400" />
 
 <h2>Running ChefBot</h2>
 
-Clone the repo and import the code in Android Studio,
+Clone the repo and import the code in Android Studio.
 
 ## Config.xml 
 
