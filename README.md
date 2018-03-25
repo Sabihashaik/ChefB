@@ -7,6 +7,9 @@ A Chatbot made with Watson that suggests a recipe based on the ingredients you h
   2. Text to Speech Feature to read out the recipe instructions
     3. Suggests Top Meals that can be made under 15 minutes.
 
+## Screenshots
+<img src="https://i.imgur.com/GJ4IHry.jpg" width="230" height="400" /> <img src="https://i.imgur.com/LPFEZdq.jpg" width="230" height="400" />
+
 <h2>Running ChefBot</h2>
 
 Clone the repo and import the code in Android Studio,
@@ -68,6 +71,5 @@ MessageResponse response = service.message("Your Workspace Id", newMessage).exec
 ```
 
 * Build and Run your app.
-## Screenshots
-<img src="https://i.imgur.com/GJ4IHry.jpg" width="230" height="400" /> <img src="https://i.imgur.com/LPFEZdq.jpg" width="230" height="400" />
+
 
