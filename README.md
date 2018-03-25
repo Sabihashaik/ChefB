@@ -1,8 +1,6 @@
 # ChefBot 
 
-[![Build Status](https://travis-ci.org/IBM-Cloud/chatbot-watson-android.svg?branch=master)](https://travis-ci.org/IBM-Cloud/chatbot-watson-android)
-ChefBot is based on the template provided by IBM Watson.
-
+A Chatbot made with Watson that suggests a recipe based on the ingredients you have. Itlets you search and create easy recipes using ingredients you already have in your kitchen. 
 
 <h2>Running ChefBot</h2>
 
@@ -65,3 +63,6 @@ MessageResponse response = service.message("Your Workspace Id", newMessage).exec
 ```
 
 * Build and Run your app.
+## Screenshots
+<img src="https://i.imgur.com/GJ4IHry.jpg" width="230" height="400" /> <img src="https://i.imgur.com/LPFEZdq.jpg" width="230" height="400" />
+
